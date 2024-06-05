@@ -1,0 +1,7 @@
+langchain==0.1.9
+langchain_community==0.0.24
+langchain_core==0.1.27
+langchain_openai==0.0.8
+Requests==2.31.0
+chromadb==0.4.24
+scipy==1.13.0
